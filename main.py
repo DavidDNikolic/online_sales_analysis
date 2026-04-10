@@ -4,8 +4,8 @@ from product_manager import ProductManager
 
 manager = ProductManager()
 
-p1 = Product("Laptop", 1000, 2)
-p2 = Product("Telefon", 500, 3)
+p1 = Product("Laptop PRO", 1200, 1)
+p2 = Product("Telefon MAX", 700, 2)
 
 manager.add_product(p1)
 manager.add_product(p2)
