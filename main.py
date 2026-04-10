@@ -4,7 +4,7 @@ from product_manager import ProductManager
 
 manager = ProductManager()
 
-p1 = Product("Laptop", 1000, 2)
+p1 = Product("WORK LAPTOP", 1500, 1)
 p2 = Product("Telefon", 500, 3)
 
 manager.add_product(p1)
